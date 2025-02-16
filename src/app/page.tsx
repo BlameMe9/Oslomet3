@@ -2,18 +2,11 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Card, CardHeader, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { CommandMenu } from "@/components/command-menu";
-import { Metadata } from "next";
 import { Section } from "@/components/ui/section";
 import { GlobeIcon, MailIcon, PhoneIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { RESUME_DATA } from "@/data/resume-data";
 import { ProjectCard } from "@/components/project-card";
-
-// Ensure the summary is converted into a string for Metadata
-export const metadata: Metadata = {
-  title: `${RESUME_DATA.name} | ${RESUME_DATA.about}`,
-  description: Array.isArray(RESUME_DATA.summary) ? RESUME_DATA.summary.join(" ") : RESUME_DATA.summary,
-};
 
 export default function Page() {
   return (
@@ -26,18 +19,12 @@ export default function Page() {
               {RESUME_DATA.about}
             </p>
 
-            {/* Fix summary rendering */}
-            {Array.isArray(RESUME_DATA.summary) ? (
-              <ul className="list-disc list-inside text-pretty font-mono text-sm text-muted-foreground">
-                {RESUME_DATA.summary.map((point, index) => (
-                  <li key={index}>{point}</li>
-                ))}
-              </ul>
-            ) : (
-              <p className="text-pretty font-mono text-sm text-muted-foreground">
-                {RESUME_DATA.summary}
-              </p>
-            )}
+            {/* Render summary as a bullet list */}
+            <ul className="list-disc list-inside text-pretty font-mono text-sm text-muted-foreground">
+              {RESUME_DATA.summary.map((point, index) => (
+                <li key={index}>{point}</li>
+              ))}
+            </ul>
 
             <p className="max-w-md items-center text-pretty font-mono text-xs text-muted-foreground">
               <a
@@ -79,22 +66,6 @@ export default function Page() {
             <AvatarFallback>{RESUME_DATA.initials}</AvatarFallback>
           </Avatar>
         </div>
-
-        <Section>
-          <h2 className="text-xl font-bold">About</h2>
-          {/* Fix summary rendering in the About section */}
-          {Array.isArray(RESUME_DATA.summary) ? (
-            <ul className="list-disc list-inside text-pretty font-mono text-sm text-muted-foreground">
-              {RESUME_DATA.summary.map((point, index) => (
-                <li key={index}>{point}</li>
-              ))}
-            </ul>
-          ) : (
-            <p className="text-pretty font-mono text-sm text-muted-foreground">
-              {RESUME_DATA.summary}
-            </p>
-          )}
-        </Section>
 
         <Section>
           <h2 className="text-xl font-bold">Work Experience</h2>
@@ -175,4 +146,3 @@ export default function Page() {
     </main>
   );
 }
-
