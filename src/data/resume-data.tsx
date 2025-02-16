@@ -27,12 +27,13 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Oslo",
   about:
     "PhD stipend at NTNU and Work and Organizational consultant at Østlyng & Bjerke.",
- summary: [
+summary: [
   "Comprehensive skills spanning technology, psychology, research, and organizational development.",
   "Passionate about the intersection of psychology and technology, applying AI to solve real-world challenges.",
   "Thrives in fast-paced and agile environments.",
   "Leadership approach emphasizes transparency, sincerity, cooperation, and continuous problem-solving.",
-],
+] as const,
+
   avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQGnEDQokH4eHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712494802583?e=1744848000&v=beta&t=HYiJoO4OI39uYECXIJlR9oPrTh77NOc7okkWwSgAE_8",
   personalWebsiteUrl: "https://sebastianthorp.com",
   contact: {
