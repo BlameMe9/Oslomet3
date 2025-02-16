@@ -20,11 +20,14 @@ export default function Page() {
             </p>
 
             {/* Render summary as a bullet list */}
-            <ul className="list-disc list-inside text-pretty font-mono text-sm text-muted-foreground">
-              {RESUME_DATA.summary.map((point, index) => (
-                <li key={index}>{point}</li>
-              ))}
-            </ul>
+            <Section>
+              <h2 className="text-xl font-bold">About</h2>
+              <ul className="list-disc list-inside text-pretty font-mono text-sm text-muted-foreground">
+                {RESUME_DATA.summary.map((point, index) => (
+                  <li key={index}>{point}</li>
+                ))}
+              </ul>
+            </Section>
 
             <p className="max-w-md items-center text-pretty font-mono text-xs text-muted-foreground">
               <a
