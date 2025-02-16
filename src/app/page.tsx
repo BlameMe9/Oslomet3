@@ -24,7 +24,17 @@ export default function Page() {
             <p className="max-w-md text-pretty font-mono text-sm text-muted-foreground">
               {RESUME_DATA.about}
             </p>
-            <p className="max-w-md items-center text-pretty font-mono text-xs text-muted-foreground">
+            {Array.isArray(RESUME_DATA.summary) ? (
+  <ul className="list-disc list-inside text-pretty font-mono text-sm text-muted-foreground">
+    {RESUME_DATA.summary.map((point, index) => (
+      <li key={index}>{point}</li>
+    ))}
+  </ul>
+) : (
+  <p className="text-pretty font-mono text-sm text-muted-foreground">
+    {RESUME_DATA.summary}
+  </p>
+)}
               <a
                 className="inline-flex gap-x-1.5 align-baseline leading-none hover:underline"
                 href={RESUME_DATA.locationLink}
