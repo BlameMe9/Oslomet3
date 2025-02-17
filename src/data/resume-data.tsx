@@ -65,7 +65,7 @@ summary: [
   ],
   work: [
     {
-      company: "ReWork (NTNU)",
+      company: "ReWork",
       link: "https://rework.no",
       badges: [""],
       title: "Founder",
@@ -73,7 +73,7 @@ summary: [
       start: "2025",
       end: "Current",
       description:
-        "ReWork teaches businesses to adopt AI through individual education, organizational adoption and process automation.",
+        "ReWork helps businesses adopt AI through education, strategic implementation, and process automation.",
     },
     {
       company: "Norwegian University of Science and Technology (NTNU)",
@@ -84,7 +84,7 @@ summary: [
       start: "2022",
       end: "Current",
       description:
-        "Behavioral AI and Spatial Computing research. Supervisor and lecturer for Bachelor's and Master's students.",
+        "Behavioral AI and Spatial Computing research. Supervisor and lecturer for Bachelor's and Master's students. 92 citations and h-index of 5.",
     },
     {
       company: "Østlyng & Bjerke",
@@ -95,7 +95,7 @@ summary: [
       start: "2021",
       end: "Current",
       description:
-        "Østlyng & Bjerke specializes in consulting services for leadership and employee development, process management, and organizational development. I have led the development and sales of digital courses and the redevelopment of the company's website. Additionally, developed and executed programs that incorporated qualitative and quantitative insights, focused on process-based development, fostered innovation, and facilitated organizational change",
+        "Østlyng & Bjerke specializes in consulting services for leadership and employee development, process management, and organizational development. I have led the development and sales of digital courses and the development of the company's website. Facilitated leadership programs and developed insight analyses using qualitative and quantitative insights.",
     },
     {
       company: "VRID",
@@ -106,7 +106,7 @@ summary: [
       start: "2020",
       end: "2022",
       description:
-        "VRID offers services in organizational development, quantitative insight analysis, and digital transformation. I have designed, deployed, and analyzed an employee survey for 1,500 employees in Orkland kommune, in addition to conducting and evaluating a comprehensive employee survey across the Norwegian courts. Furthermore, I developed a product strategy for a Virtual Reality project aimed at providing interview training",
+        "VRID offers services in organizational development, quantitative insight analysis, and digital transformation. Designed, deployed, and analyzed an employee survey for 1,500 employees in Orkland Kommune and conducted and evaluated a comprehensive employee survey across the Norwegian courts.",
     },
     {
       company: "Norwegian University of Science and Technology (NTNU)",
@@ -116,7 +116,7 @@ summary: [
       logo: NSNLogo,
       start: "2020",
       end: "2022",
-      description: "Executed comprehensive laboratory experiments utilizing Virtual Reality and physiological measures, encompassing recruitment, data analysis, experimental design, and scientific writing",
+      description: "Executed laboratory experiments utilizing Virtual Reality and Electroencephalogram (EEG), managing recruitment, data analysis, experimental design, and scientific writing.",
     },
     {
       company: "2. Bataljon/Norwegian Armed Forces",
@@ -126,7 +126,7 @@ summary: [
       logo: NSNLogo,
       start: "2013",
       end: "2015",
-      description: "I managed the conscripts’, overseeing payroll, food provisioning in camps and fields, and transportation logistics. Additionally, I played a key role in the staff's planning and coordination of field exercises. My leadership responsibilities extended to guiding conscripts in both camp and field settings, where I led physical training, maintained equipment and vehicles, and lead our team during field operations.",
+      description: "I managed the conscripts, overseeing payroll, food provisioning in camps and fields, and transportation logistics. Additionally, I played a key role in the staff's planning and coordination of field exercises. Team leader for the stab, responsibilities included leading the team in field operations, physical training, maintaining equipment and vehicles.",
     },
   ],
   skills: [
