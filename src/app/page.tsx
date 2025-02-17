@@ -19,11 +19,12 @@ export default function Page() {
               {RESUME_DATA.about}
             </p>
 
-<ul className="list-disc list-inside text-pretty font-mono text-xs text-muted-foreground space-y-1">
+<ul className="list-disc list-inside text-pretty font-mono text-sm text-muted-foreground space-y-1">
   {RESUME_DATA.summary.map((point, index) => (
     <li key={index}>{point}</li>
   ))}
 </ul>
+
 
 
             <p className="max-w-md items-center text-pretty font-mono text-xs text-muted-foreground">
