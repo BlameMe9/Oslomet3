@@ -19,12 +19,10 @@ export default function Page() {
               {RESUME_DATA.about}
             </p>
 
-<p className="text-pretty font-mono text-sm text-muted-foreground">
-  {RESUME_DATA.summary.join(" ")}
-</p>
-
-
-
+            {/* Smaller summary text */}
+            <p className="text-pretty font-mono text-xs text-muted-foreground">
+              {RESUME_DATA.summary.join(" ")}
+            </p>
 
             <p className="max-w-md items-center text-pretty font-mono text-xs text-muted-foreground">
               <a
