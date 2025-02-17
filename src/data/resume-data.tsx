@@ -28,7 +28,7 @@ export const RESUME_DATA = {
   about:
     "",
 summary: [
-  "PhD stipend and consultant with diverse skills and experience as business owner, army team leader, leadership consultant, and student supervisor. Skilled in setting clear goals, removing obstacles, and making strategic decisions while fostering an inclusive, collaborative culture. Known for a hands-on leadership style and a commitment to continuous improvement and positive work environments. Seeking to leverage my expertise, AI knowledge, and background in work and organizational psychology to contribute to innovation and growth in a forward-thinking organization.",
+  "PhD stipend and leadership consultant with diverse skills and experience as business owner, army team leader, leadership consultant, and student supervisor. Skilled in setting clear goals, removing obstacles, and making strategic decisions while fostering an inclusive, collaborative culture. Known for a hands-on leadership style and a commitment to continuous improvement and positive work environments. Seeking to leverage my expertise, AI knowledge, and background in work and organizational psychology to contribute to innovation and growth in a forward-thinking organization.",
 ] as const,
 
   avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQGnEDQokH4eHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712494802583?e=1744848000&v=beta&t=HYiJoO4OI39uYECXIJlR9oPrTh77NOc7okkWwSgAE_8",
@@ -95,7 +95,7 @@ summary: [
       start: "2021",
       end: "Current",
       description:
-        "Østlyng & Bjerke specializes in consulting services for leadership and employee development, process management, and organizational development. I have led the development and sales of digital courses and the development of the company's website. Facilitated leadership programs and developed insight analyses using qualitative and quantitative insights.",
+        "Østlyng & Bjerke specializes in leadership and organizational development. I have led the development and sales of digital courses and the development of the company's website. Facilitated leadership programs and developed insight analyses using qualitative and quantitative insights.",
     },
     {
       company: "VRID",
@@ -106,7 +106,7 @@ summary: [
       start: "2020",
       end: "2022",
       description:
-        "VRID offers services in quantitative insight analysis. Designed, deployed, and analyzed an employee survey for 1,500 employees in Orkland Kommune and conducted and evaluated a comprehensive employee survey across the Norwegian courts.",
+        "VRID offers services in surveys and insight analysis. Designed, deployed, and analyzed an employee survey for 1,500 employees in Orkland Kommune and conducted and evaluated a comprehensive employee survey across the Norwegian courts.",
     },
     {
       company: "Norwegian University of Science and Technology (NTNU)",
@@ -119,14 +119,14 @@ summary: [
       description: "Executed laboratory experiments utilizing Virtual Reality and Electroencephalogram (EEG), managing recruitment, data analysis, experimental design, and scientific writing.",
     },
     {
-      company: "2. Bataljon/Norwegian Armed Forces",
+      company: "Kavalerieskadronen/2. Bataljon/Norwegian Armed Forces",
       link: "https://www.forsvaret.no/om-forsvaret/organisasjon/haeren/brigade-nord",
       badges: [""],
-      title: "Squad Leader and Personnel Administrators",
+      title: "Squad Leader and Personnel Administrator",
       logo: NSNLogo,
       start: "2013",
       end: "2015",
-      description: "I managed the conscripts, overseeing payroll, food provisioning in camps and fields, and transportation logistics. Additionally, I played a key role in the staff's planning and coordination of field exercises. Team leader for the stab, responsibilities included leading the team in field operations, physical training, maintaining equipment and vehicles.",
+      description: "Salary and personnel matters, food provisioning, and transportation logistics. Planning and coordination of field exercises. Team leader for the stab, responsibilities included leading the team in field operations, physical training, maintaining equipment and vehicles.",
     },
   ],
   skills: [
@@ -174,7 +174,7 @@ summary: [
       },
     },
     {
-      title: "Association of the big five personality traits with training effectiveness, sense of presence, and cybersickness in virtual Reality",
+      title: "Association of the Big Five personality traits with training effectiveness, sense of presence, and cybersickness in virtual Reality",
       techStack: ["Virtual Reality", "Personality Traits", "Training Effectivness", "Sense of Presence", "Cybersickness"],
       description:
         "Sebastian Oltedal Thorp, Lars Morten Rimol, Simone Grassini, November 2022",
