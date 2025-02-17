@@ -106,7 +106,7 @@ summary: [
       start: "2020",
       end: "2022",
       description:
-        "VRID offers services in surveys and insight analysis. Designed, deployed, and analyzed an employee survey for 1,500 employees in Orkland Kommune and conducted and evaluated a comprehensive employee survey across the Norwegian courts.",
+        "VRID offers services in surveys and insight analysis. Designed, deployed, and analyzed employee survey for 1,500 employees in Orkland Kommune and conducted and evaluated a comprehensive employee survey across the Norwegian courts.",
     },
     {
       company: "Norwegian University of Science and Technology (NTNU)",
@@ -116,7 +116,7 @@ summary: [
       logo: NSNLogo,
       start: "2020",
       end: "2022",
-      description: "Executed laboratory experiments utilizing Virtual Reality and Electroencephalogram (EEG), managing recruitment, data analysis, experimental design, and scientific writing.",
+      description: "Conducted laboratory experiments utilizing Virtual Reality and Electroencephalography (EEG), managing recruitment, data analysis, experimental design, and scientific writing.",
     },
     {
       company: "Kavalerieskadronen/2. Bataljon/Norwegian Armed Forces",
@@ -131,15 +131,16 @@ summary: [
   ],
   skills: [
     "Organizational Development",
-    "Digital Development and Transformations",
-    "Business Management",
-    "Facilitation",
-    "Agile Methodology",
-    "Process Improvement",
-    "Quantitative Research Methods",
-    "Qualitative Research Methods",
-    "Recruitment",
-    "Web Design",
+    "Digital Transformation & AI Adoption",
+    "Leadership & Change Management",
+    "Facilitation & Workshop Design",
+    "Process Improvement & Automation",
+    "AI Adoption & Strategy",
+    "Human-AI Interaction",
+    "Experimental Design & Statistical Analysis",
+    "Recruitment & Talent Assessment",
+    "UX/UI Design",
+    "Data Visualization & Reporting",
   ],
   projects: [
     {
