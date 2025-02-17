@@ -26,7 +26,7 @@ export const RESUME_DATA = {
   location: "Nesodden, Norway",
   locationLink: "https://www.google.com/maps/place/Oslo",
   about:
-    "PhD stipend at NTNU and Work and Organizational consultant at Østlyng & Bjerke.",
+    "",
 summary: [
   "Comprehensive skills spanning technology, psychology, research, and organizational development.",
   "Passionate about the intersection of psychology and technology, applying AI to solve real-world challenges.",
