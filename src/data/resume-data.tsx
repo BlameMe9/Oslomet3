@@ -154,7 +154,7 @@ summary: [
       },
      }, 
     {
-      title: "Comparative analysis of spatial ability in immersive and non-immersive virtual reality: the role of sense of presence, simulation sickness and cognitive load",
+      title: "Comparative analysis of spatial ability in immersive and non-immersive virtual reality:...",
       techStack: [""],
       description:  "Sebastian Oltedal Thorp, Lars Morten Rimol, Simon Lervik, Hallvard Røe Evensmoen, Simone Grassini, March 2024",
       logo: ConsultlyLogo,
@@ -175,7 +175,7 @@ summary: [
       },
     },
     {
-      title: "Association of the Big Five personality traits with training effectiveness, sense of presence, and cybersickness in virtual Reality",
+      title: "Association of the Big Five personality traits with training effectiveness...",
       techStack: [""],
       description:
         "Sebastian Oltedal Thorp, Lars Morten Rimol, Simone Grassini, November 2022",
@@ -197,7 +197,7 @@ summary: [
       },
     },
     {
-      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness and sense of presence during HMD-mediated VR experience",
+      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness and sense of presence during...",
       techStack: [""],
       description: "Simone Grassini, Karin Laumann, Virginia de Martin Topranin, Sebastian Thorp, December 2021",
       logo: YearProgressLogo,
@@ -207,7 +207,7 @@ summary: [
       },
     },
     {
-      title: "Using electrophysiological measures to evaluate the sense of presence in immersive virtual environments: An event‐related potential study",
+      title: "Using electrophysiological measures to evaluate the sense of presence in...",
       techStack: [
         "",
       ],
@@ -220,7 +220,7 @@ summary: [
       },
     },
     {
-      title: "User individual characteristics and perceived usability in immersive hmd vr: A mixed method explorative study",
+      title: "User individual characteristics and perceived usability in immersive hmd vr:...",
       techStack: [
         "",
       ],
