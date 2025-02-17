@@ -209,9 +209,7 @@ summary: [
     {
       title: "Using electrophysiological measures to evaluate the sense of presence in immersive virtual environments: An event‐related potential study",
       techStack: [
-        "EEG",
-        "Virtual Reality",
-        "Immersion",
+        "",
       ],
       description:
         "Simone Grassini, Karin Laumann, Sebastian Thorp, Virginia de Martin Topranin, August 2021",
@@ -224,9 +222,7 @@ summary: [
     {
       title: "User individual characteristics and perceived usability in immersive hmd vr: A mixed method explorative study",
       techStack: [
-        "Spatial Computing",
-        "Virtual Reality",
-        "Personality Traits",
+        "",
       ],
       description:
         "Simone Grassini, Mina Saghafian, Sebastian Thorp, Karin Laumann, July 2021",
