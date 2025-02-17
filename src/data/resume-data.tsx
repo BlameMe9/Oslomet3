@@ -197,7 +197,7 @@ summary: [
       },
     },
     {
-      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness and sense of presence during...",
+      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness and sense of presence...",
       techStack: [""],
       description: "Simone Grassini, Karin Laumann, Virginia de Martin Topranin, Sebastian Thorp, December 2021",
       logo: YearProgressLogo,
@@ -207,7 +207,7 @@ summary: [
       },
     },
     {
-      title: "Using electrophysiological measures to evaluate the sense of presence in...",
+      title: "Using electrophysiological measures to evaluate the sense of presence...",
       techStack: [
         "",
       ],
