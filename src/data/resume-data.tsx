@@ -146,7 +146,7 @@ summary: [
     {
       title: "The Type of Task Matters: Conformity Towards Humans Versus AI in Different Task Domains",
       techStack: [""],
-      description:  "Sebastian Oltedal Thorp, Kjell S. Slupphaug, Lars Morten Rimol, Simon Lervik..., 2025",
+      description:  "Sebastian Oltedal Thorp, Kjell S. Slupphaug, Lars Morten Rimol.., 2025",
       logo: ConsultlyLogo,
       link: {
         label: "link",
@@ -154,7 +154,7 @@ summary: [
       },
      }, 
     {
-      title: "Comparative analysis of spatial ability in immersive and non-immersive:...",
+      title: "Comparative analysis of spatial ability in immersive and non-immersive:..",
       techStack: [""],
       description:  "Sebastian Oltedal Thorp, Lars Morten Rimol, Simon Lervik, Hallvard Røe Evensmoen, Simone Grassini, March 2024",
       logo: ConsultlyLogo,
@@ -175,7 +175,7 @@ summary: [
       },
     },
     {
-      title: "Association of the Big Five personality traits with training effectiveness...",
+      title: "Association of the Big Five personality traits with training effectiveness..",
       techStack: [""],
       description:
         "Sebastian Oltedal Thorp, Lars Morten Rimol, Simone Grassini, November 2022",
@@ -197,7 +197,7 @@ summary: [
       },
     },
     {
-      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness...",
+      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness..",
       techStack: [""],
       description: "Simone Grassini, Karin Laumann, Virginia de Martin Topranin, Sebastian Thorp, December 2021",
       logo: YearProgressLogo,
@@ -207,7 +207,7 @@ summary: [
       },
     },
     {
-      title: "Using electrophysiological measures to evaluate the sense of presence...",
+      title: "Using electrophysiological measures to evaluate the sense of presence..",
       techStack: [
         "",
       ],
@@ -220,7 +220,7 @@ summary: [
       },
     },
     {
-      title: "User individual characteristics and perceived usability in immersive hmd vr:...",
+      title: "User individual characteristics and perceived usability in immersive hmd vr:..",
       techStack: [
         "",
       ],
