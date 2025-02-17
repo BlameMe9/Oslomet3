@@ -28,10 +28,7 @@ export const RESUME_DATA = {
   about:
     "",
 summary: [
-  "I am curious, work efficiently, and always seek improvement. I strive to create positive work environments by understanding different people’s needs and diverse perspectives.",
-  "Experience as an army team leader, consultant project lead, student supervisor, and business owner has led me to develop a hands-on leadership style focused on setting clear goals, removing obstacles, and making smart strategic decisions. Skilled in fostering an inclusive and collaborative culture.",
-  "Strong academic background in behavioral artificial intelligence, spatial-computing, and human-computer interactions.",
-  "Studying work and organizational psychology has taught me that the strength of an organization lies in its people. When individuals feel ownership of their work and growth, they excel.",
+  "PhD stipend and Consultant with diverse experience as a business owner, army team leader, leadership consultant, and student supervisor. Skilled in setting clear goals, removing obstacles, and making strategic decisions while fostering an inclusive, collaborative culture. Known for a hands-on leadership style and a commitment to continuous improvement and positive work environments. Seeking to leverage my expertise, scientific knowledge, and background in work and organizational psychology to contribute to innovation and growth in a forward-thinking organization.",
 ] as const,
 
   avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQGnEDQokH4eHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712494802583?e=1744848000&v=beta&t=HYiJoO4OI39uYECXIJlR9oPrTh77NOc7okkWwSgAE_8",
