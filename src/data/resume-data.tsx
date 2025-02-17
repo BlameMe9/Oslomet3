@@ -28,8 +28,7 @@ export const RESUME_DATA = {
   about:
     "",
 summary: [
-  "PhD candidate and leadership consultant with experience as a business
-owner, army team leader, and student supervisor. Expert at organizational improvement and AI implementation. Skilled at removing obstacles and driving strategic decisions in collaborative environments."
+  "PhD candidate and leadership consultant with experience as a business owner, army team leader, and student supervisor. Expert at organizational improvement and AI implementation. Skilled at removing obstacles and driving strategic decisions in collaborative environments.",
 ] as const,
 
   avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQGnEDQokH4eHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712494802583?e=1744848000&v=beta&t=HYiJoO4OI39uYECXIJlR9oPrTh77NOc7okkWwSgAE_8",
