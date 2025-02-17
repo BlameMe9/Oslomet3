@@ -146,7 +146,7 @@ summary: [
     {
       title: "The Type of Task Matters: Conformity Towards Humans Versus AI in Different Task Domains",
       techStack: [""],
-      description:  "Sebastian Oltedal Thorp, Kjell S. Slupphaug, Lars Morten Rimol, Simon Lervik, Simen Kristoffer B. Hoel, Simone Grassini, 2025",
+      description:  "Sebastian Oltedal Thorp, Kjell S. Slupphaug, Lars Morten Rimol, Simon Lervik..., 2025",
       logo: ConsultlyLogo,
       link: {
         label: "link",
@@ -197,7 +197,7 @@ summary: [
       },
     },
     {
-      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness and...",
+      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness...",
       techStack: [""],
       description: "Simone Grassini, Karin Laumann, Virginia de Martin Topranin, Sebastian Thorp, December 2021",
       logo: YearProgressLogo,
