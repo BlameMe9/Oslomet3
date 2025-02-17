@@ -212,7 +212,7 @@ summary: [
         "",
       ],
       description:
-        "Simone Grassini, Karin Laumann, Sebastian Thorp, Virginia de Martin Topranin, August 2021",
+        "Simone Grassini, Karin Laumann, Sebastian Thorp, August 2021",
       logo: ParabolLogo,
       link: {
         label: "github.com",
