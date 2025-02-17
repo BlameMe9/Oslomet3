@@ -95,7 +95,7 @@ summary: [
       start: "2021",
       end: "Current",
       description:
-        "Østlyng & Bjerke specializes in leadership and organizational development. I led the development and sales of digital courses and the company's website, facilitated leadership programs, and developed insight analyses using qualitative and quantitative data",
+        "Ø&B specializes in leadership and organizational development. I led the development and sales of digital courses and the company's website, facilitated leadership programs, and developed insight analyses",
     },
     {
       company: "VRID",
