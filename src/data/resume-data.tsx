@@ -106,7 +106,7 @@ summary: [
       start: "2020",
       end: "2022",
       description:
-        "VRID offers services in organizational development, quantitative insight analysis, and digital transformation. Designed, deployed, and analyzed an employee survey for 1,500 employees in Orkland Kommune and conducted and evaluated a comprehensive employee survey across the Norwegian courts.",
+        "VRID offers services in quantitative insight analysis. Designed, deployed, and analyzed an employee survey for 1,500 employees in Orkland Kommune and conducted and evaluated a comprehensive employee survey across the Norwegian courts.",
     },
     {
       company: "Norwegian University of Science and Technology (NTNU)",
