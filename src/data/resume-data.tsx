@@ -28,10 +28,10 @@ export const RESUME_DATA = {
   about:
     "",
 summary: [
-  "Comprehensive skills spanning technology, psychology, research, and organizational development.",
-  "Passionate about the intersection of psychology and technology, applying AI to solve real-world challenges.",
-  "Thrives in fast-paced and agile environments.",
-  "Leadership approach emphasizes transparency, sincerity, cooperation, and continuous problem-solving.",
+  "I am curious, work efficiently, and always seek improvement. I strive to create positive work environments by understanding different people’s needs and diverse perspectives.",
+  "Experience as an army team leader, consultant project lead, student supervisor, and business owner has led me to develop a hands-on leadership style focused on setting clear goals, removing obstacles, and making smart strategic decisions. Skilled in fostering an inclusive and collaborative culture.",
+  "Strong academic background in behavioral artificial intelligence, spatial-computing, and human-computer interactions.",
+  "Studying work and organizational psychology has taught me that the strength of an organization lies in its people. When individuals feel ownership of their work and growth, they excel.",
 ] as const,
 
   avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQGnEDQokH4eHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712494802583?e=1744848000&v=beta&t=HYiJoO4OI39uYECXIJlR9oPrTh77NOc7okkWwSgAE_8",
