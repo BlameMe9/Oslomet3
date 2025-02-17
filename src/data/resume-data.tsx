@@ -186,7 +186,7 @@ summary: [
       },
     },
     {
-      title: "Temporal development of sense of presence and cybersickness during an immersive vr experience",
+      title: "Temporal development of sense of presence and cybersickness...",
       techStack: [""],
       description:
         "Sebastian Thorp, Alexander Sævild Ree, Simone Grassini, April 2022",
