@@ -150,7 +150,7 @@ summary: [
       logo: ConsultlyLogo,
       link: {
         label: "link",
-        href: "https://www.frontiersin.org/articles/10.3389/frvir.2024.1343872/full",
+        href: "https://osf.io/kq7v2/download",
       },
      }, 
     {
