@@ -146,7 +146,7 @@ summary: [
     {
       title: "The Type of Task Matters: Conformity Towards Humans Versus AI in Different Task Domains",
       techStack: [""],
-      description:  "Sebastian Oltedal Thorp, Kjell S. Slupphaug, Lars Morten Rimol.., 2025",
+      description:  "Sebastian Oltedal Thorp.., 2025",
       logo: ConsultlyLogo,
       link: {
         label: "link",
@@ -156,7 +156,7 @@ summary: [
     {
       title: "Comparative analysis of spatial ability in immersive and non-immersive:..",
       techStack: [""],
-      description:  "Sebastian Oltedal Thorp, Lars Morten Rimol.., March 2024",
+      description:  "Sebastian Oltedal Thorp.., March 2024",
       logo: ConsultlyLogo,
       link: {
         label: "link",
@@ -178,7 +178,7 @@ summary: [
       title: "Association of the Big Five personality traits with training effectiveness..",
       techStack: [""],
       description:
-        "Sebastian Oltedal Thorp, Lars Morten Rimol, Simone Grassini, November 2022",
+        "Sebastian Oltedal Thorp.., November 2022",
       logo: Minimal,
       link: {
         label: "useminimal.com",
@@ -189,7 +189,7 @@ summary: [
       title: "Temporal development of sense of presence and cybersickness...",
       techStack: [""],
       description:
-        "Sebastian Thorp, Alexander Sævild Ree, Simone Grassini, April 2022",
+        "Sebastian Thorp.., April 2022",
       logo: BarepapersLogo,
       link: {
         label: "barepapers.com",
