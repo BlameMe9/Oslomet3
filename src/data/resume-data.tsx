@@ -28,7 +28,7 @@ export const RESUME_DATA = {
   about:
     "",
 summary: [
-  "PhD stipend and consultant with diverse experience as a business owner, army team leader, leadership consultant, and student supervisor. Skilled in setting clear goals, removing obstacles, and making strategic decisions while fostering an inclusive, collaborative culture. Known for a hands-on leadership style and a commitment to continuous improvement and positive work environments. Seeking to leverage my expertise, scientific knowledge, and background in work and organizational psychology to contribute to innovation and growth in a forward-thinking organization.",
+  "PhD stipend and consultant with diverse skills and experience as business owner, army team leader, leadership consultant, and student supervisor. Skilled in setting clear goals, removing obstacles, and making strategic decisions while fostering an inclusive, collaborative culture. Known for a hands-on leadership style and a commitment to continuous improvement and positive work environments. Seeking to leverage my expertise, AI knowledge, and background in work and organizational psychology to contribute to innovation and growth in a forward-thinking organization.",
 ] as const,
 
   avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQGnEDQokH4eHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712494802583?e=1744848000&v=beta&t=HYiJoO4OI39uYECXIJlR9oPrTh77NOc7okkWwSgAE_8",
