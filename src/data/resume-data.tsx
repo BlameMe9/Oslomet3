@@ -126,7 +126,7 @@ summary: [
       logo: NSNLogo,
       start: "2013",
       end: "2015",
-      description: "Managed salary, personnel, food provisioning, and transportation logistics; coordinated field exercises; and led the stab team in operations, physical training, and equipment and vehicle maintenance.",
+      description: "Managed salary, personnel, food provisioning, and transportation logistics; coordinated field exercises and led the stab team in field and camp operations.",
     },
   ],
   skills: [
