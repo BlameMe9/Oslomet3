@@ -156,7 +156,7 @@ summary: [
     {
       title: "Comparative analysis of spatial ability in immersive and non-immersive:..",
       techStack: [""],
-      description:  "Sebastian Oltedal Thorp, Lars Morten Rimol, Simon Lervik, Hallvard Røe Evensmoen, Simone Grassini, March 2024",
+      description:  "Sebastian Oltedal Thorp, Lars Morten Rimol.., March 2024",
       logo: ConsultlyLogo,
       link: {
         label: "link",
@@ -199,7 +199,7 @@ summary: [
     {
       title: "Evaluating the effect of multi-sensory stimulations on simulator sickness..",
       techStack: [""],
-      description: "Simone Grassini, Karin Laumann, Virginia de Martin Topranin, Sebastian Thorp, December 2021",
+      description: "Simone Grassini, Karin Laumann, Sebastian Thorp, December 2021",
       logo: YearProgressLogo,
       link: {
         label: "getyearprogress.com",
