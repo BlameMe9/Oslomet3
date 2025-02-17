@@ -28,7 +28,8 @@ export const RESUME_DATA = {
   about:
     "",
 summary: [
-  "PhD candidate and leadership consultant with experience as a business owner, army team leader, and student supervisor. Skilled at setting goals, removing obstacles, and driving strategic decisions in collaborative environments. Recognized for hands-on leadership and continuous improvement, I aim to leverage my background in organizational psychology and AI expertise to drive innovation."
+  "PhD candidate and leadership consultant with experience as a business
+owner, army team leader, and student supervisor. Expert at organizational improvement and AI implementation. Skilled at removing obstacles and driving strategic decisions in collaborative environments."
 ] as const,
 
   avatarUrl: "https://media.licdn.com/dms/image/v2/D4D03AQGnEDQokH4eHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712494802583?e=1744848000&v=beta&t=HYiJoO4OI39uYECXIJlR9oPrTh77NOc7okkWwSgAE_8",
@@ -79,7 +80,7 @@ summary: [
       company: "Norwegian University of Science and Technology (NTNU)",
       link: "https://ntnu.no",
       badges: [""],
-      title: "Ph.D stipend",
+      title: "PhD Candidate",
       logo: JojoMobileLogo,
       start: "2022",
       end: "Current",
@@ -119,7 +120,7 @@ summary: [
       description: "Conducted laboratory experiments utilizing Virtual Reality and Electroencephalography (EEG), managing recruitment, data analysis, experimental design, and scientific writing.",
     },
     {
-      company: "Kavalerieskadronen/2. Bataljon/Norwegian Armed Forces",
+      company: "Kavalerieskadronen/2. Batalion/Norwegian Armed Forces",
       link: "https://www.forsvaret.no/om-forsvaret/organisasjon/haeren/brigade-nord",
       badges: [""],
       title: "Squad Leader and Personnel Administrator",
