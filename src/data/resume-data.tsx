@@ -84,7 +84,7 @@ summary: [
       start: "2022",
       end: "Current",
       description:
-        "Behavioral AI and Spatial Computing research. Supervisor and lecturer for Bachelor's and Master's students. 92 citations and h-index of 5.",
+        "Behavioral AI and Spatial Computing research. Supervisor and lecturer for Bachelor's and Master's students. 96 citations and h-index of 5.",
     },
     {
       company: "Østlyng & Bjerke",
