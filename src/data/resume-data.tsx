@@ -145,18 +145,18 @@ summary: [
   projects: [
     {
       title: "The Type of Task Matters: Conformity Towards Humans Versus AI in Different Task Domains",
-      techStack: [""],
-      description:  "Sebastian Oltedal Thorp.., 2025",
+      techStack: ["Conformity", "Attitudes towards AI", "Human-AI interactions", "Informative influence"],
+      description:  "Sebastian Oltedal Thorp, Kjell S. Slupphaug, Lars Morten Rimol, Simon Lervik, Simen Kristoffer B. Hoel, Simone Grassini, 2025",
       logo: ConsultlyLogo,
       link: {
         label: "link",
-        href: "https://osf.io/kq7v2/download",
+        href: "https://www.frontiersin.org/articles/10.3389/frvir.2024.1343872/full",
       },
      }, 
     {
-      title: "Comparative analysis of spatial ability in immersive and non-immersive:..",
-      techStack: [""],
-      description:  "Sebastian Oltedal Thorp.., March 2024",
+      title: "Comparative analysis of spatial ability in immersive and non-immersive virtual reality: the role of sense of presence, simulation sickness and cognitive load",
+      techStack: ["Spatial Computing", "Immersion", "Spatial Ability", "Simulation Sickness", "Sense of Presence", "Cogntive Load"],
+      description:  "Sebastian Oltedal Thorp, Lars Morten Rimol, Simon Lervik, Hallvard Røe Evensmoen, Simone Grassini, March 2024",
       logo: ConsultlyLogo,
       link: {
         label: "link",
@@ -165,7 +165,7 @@ summary: [
     },
     {
       title: "Overcoming the productivity paradox in the public sector by managing deliberate learning",
-      techStack: [""],
+      techStack: ["Digital Transformations", "Deliberate Learning", "Public Sector", "Manegerial Dynamic Capabilities"],
       description:
         "Linn Slettum Bjerke-Busch, Sebastian Thorp, June 2023",
       logo: MonitoLogo,
@@ -175,10 +175,10 @@ summary: [
       },
     },
     {
-      title: "Association of the Big Five personality traits with training effectiveness..",
-      techStack: [""],
+      title: "Association of the big five personality traits with training effectiveness, sense of presence, and cybersickness in virtual Reality",
+      techStack: ["Virtual Reality", "Personality Traits", "Training Effectivness", "Sense of Presence", "Cybersickness"],
       description:
-        "Sebastian Oltedal Thorp.., November 2022",
+        "Sebastian Oltedal Thorp, Lars Morten Rimol, Simone Grassini, November 2022",
       logo: Minimal,
       link: {
         label: "useminimal.com",
@@ -186,10 +186,10 @@ summary: [
       },
     },
     {
-      title: "Temporal development of sense of presence and cybersickness...",
-      techStack: [""],
+      title: "Temporal development of sense of presence and cybersickness during an immersive vr experience",
+      techStack: ["Virtual Reality", "Sense of Presence", "Cybersickness"],
       description:
-        "Sebastian Thorp.., April 2022",
+        "Sebastian Thorp, Alexander Sævild Ree, Simone Grassini, April 2022",
       logo: BarepapersLogo,
       link: {
         label: "barepapers.com",
@@ -197,9 +197,9 @@ summary: [
       },
     },
     {
-      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness..",
-      techStack: [""],
-      description: "Simone Grassini, Karin Laumann, Sebastian Thorp, December 2021",
+      title: "Evaluating the effect of multi-sensory stimulations on simulator sickness and sense of presence during HMD-mediated VR experience",
+      techStack: ["Virtual Reality", "Simulation Sickness", "Sense of Presence", "Vibrations"],
+      description: "Simone Grassini, Karin Laumann, Virginia de Martin Topranin, Sebastian Thorp, December 2021",
       logo: YearProgressLogo,
       link: {
         label: "getyearprogress.com",
@@ -207,12 +207,14 @@ summary: [
       },
     },
     {
-      title: "Using electrophysiological measures to evaluate the sense of presence..",
+      title: "Using electrophysiological measures to evaluate the sense of presence in immersive virtual environments: An event‐related potential study",
       techStack: [
-        "",
+        "EEG",
+        "Virtual Reality",
+        "Immersion",
       ],
       description:
-        "Simone Grassini, Karin Laumann, Sebastian Thorp, August 2021",
+        "Simone Grassini, Karin Laumann, Sebastian Thorp, Virginia de Martin Topranin, August 2021",
       logo: ParabolLogo,
       link: {
         label: "github.com",
@@ -220,9 +222,11 @@ summary: [
       },
     },
     {
-      title: "User individual characteristics and perceived usability in immersive hmd vr:..",
+      title: "User individual characteristics and perceived usability in immersive hmd vr: A mixed method explorative study",
       techStack: [
-        "",
+        "Spatial Computing",
+        "Virtual Reality",
+        "Personality Traits",
       ],
       description:
         "Simone Grassini, Mina Saghafian, Sebastian Thorp, Karin Laumann, July 2021",
