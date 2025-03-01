@@ -131,11 +131,10 @@ summary: [
   ],
   skills: [
     "Organizational Development",
-    "Digital Transformation & AI Adoption",
+    "Digital Transformation",
     "Change Management",
     "Facilitation & Workshop Design",
-    "Process Improvement & Automation",
-    "AI Adoption & Strategy",
+    "Process Improvement",
     "Human-AI Interaction",
     "Experimental Design & Statistical Analysis",
     "Recruitment & Talent Assessment",
