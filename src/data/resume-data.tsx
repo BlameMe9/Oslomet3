@@ -206,7 +206,7 @@ projects: [
       },
     },
     {
-      title: "Using electrophysiological measures to evaluate the sense of presence in immersive virtual environments: An event‐related potential study",
+      title: "Using electrophysiological measures to evaluate the sense of presence in immersive virtual environments:..",
       techStack: [],
       description:
         "Simone Grassini, Karin Laumann, Sebastian Thorp, Virginia de Martin Topranin, August 2021",
