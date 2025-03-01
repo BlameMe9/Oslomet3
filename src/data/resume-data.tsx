@@ -153,7 +153,7 @@ projects: [
       },
      }, 
     {
-      title: "Comparative analysis of spatial ability in immersive and non-immersive virtual reality: the role of sense of presence, simulation sickness and cognitive load",
+      title: "Comparative analysis of spatial ability in immersive and non-immersive virtual reality: the role of..",
       techStack: [],
       description:  "Sebastian Oltedal Thorp, Lars Morten Rimol, Simon Lervik, Hallvard Røe Evensmoen, Simone Grassini, March 2024",
       logo: ConsultlyLogo,
